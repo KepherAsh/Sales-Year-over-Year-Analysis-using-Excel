@@ -1,4 +1,5 @@
 # 📊 Sales Performance & Market Concentration Analysis (Excel Project)
+![Sales Dashboard](assets/SalesDashboardExcel.gif)
 
 ## 🏢 Project Overview
 This project analyzes **multi-year sales performance (2011–2014)** to assess business growth, demand trends, pricing effectiveness, and geographic revenue concentration. Using **Microsoft Excel**, the analysis surfaces key insights around market dependency, regional risk, and long-term business health to support strategic decision-making.
